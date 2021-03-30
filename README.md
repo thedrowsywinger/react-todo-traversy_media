@@ -13,6 +13,7 @@ Replicating Traversy Media React Crash Course [Youtube](https://www.youtube.com/
     - Upon Removal of all tasks, show a message.    
 - Tasks can be double clicked to toggle reminder setting
 
+![The Page](./screenshot.png)
 
 ## Production
 
