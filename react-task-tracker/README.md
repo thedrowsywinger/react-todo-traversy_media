@@ -14,6 +14,8 @@ Replicating Traversy Media React Crash Course [Youtube](https://www.youtube.com/
 - Tasks can be double clicked to toggle reminder setting
 
 
+![The Page](./screenshot.png)
+
 ## Production
 
 The Front End part has been deployed to netlify in the following URL: 
@@ -46,3 +48,4 @@ npm start
 ```
 npm run build
 ```
+
